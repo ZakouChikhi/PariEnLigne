@@ -1,0 +1,14 @@
+= Test structurel Struts
+
+
+Comme vu en cours, nous avons testé structurellement l'action *AjouterMatch*. Vous pouvez retrouver le code à l'URL :
+https://pdicost.univ-orleans.fr/git/projects/TEQE/repos/cours/browse/test-structurel-struts2/src/test/java/actions/TestAjouterMatch.java
+
+
+Faites la même chose pour l'action *Parier*.
+
+N'oubliez pas les points importants :
+
+* Test structurel : donc couverture de tous les arcs à minima
+* Maîtrisez le test structurel struts : exécution des tests sans lancer de serveur
+* Utilisation de mocks car on reste sur du test structurel
